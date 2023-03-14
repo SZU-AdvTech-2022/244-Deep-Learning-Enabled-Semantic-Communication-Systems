@@ -1,4 +1,4 @@
-@article{REPO-245,
+@article{REPO-244,
     author = "Xie, Huiqiang and Qin, Zhijin and Li, Geoffrey Ye and Juang, Biing-Hwang",
     journal = "IEEE Transactions on Signal Processing",
     number = "2663-2675",
